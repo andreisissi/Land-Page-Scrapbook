@@ -1,0 +1,36 @@
+.nav-link, .sobre-mim, .div-servicos, .div-materiais, .title-color {
+   color: #B44715 !important;
+   font-family: "Averia Serif Libre", serif;
+   font-weight: 700 !important;
+}
+
+.nav-link:hover {
+   color: rgba(95, 47, 24, 0.63) !important;
+   transition: ease-in-out .3s;
+}
+
+.navbar-toggler {
+   width: 50px;
+   display: flex;
+}
+
+.navbar-toggler:focus {
+   color: #A9CDFF;
+}
+
+.icon-link:hover {
+   color: #00927c94 !important;
+   transition: ease-in-out .2s;
+}
+
+.link-github:hover {
+   color: rgb(218, 101, 181) !important;
+}
+
+.div-footer {
+   background-color: #fdcfca;
+}
+
+.font-color:hover {
+   color: rgba(0, 0, 0, 0.61) !important;
+}

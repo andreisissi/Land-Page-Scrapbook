@@ -19,7 +19,7 @@
 }
 
 .icon-link:hover {
-   color: #00927c94 !important;
+   color: #69e3c1d1 !important;
    transition: ease-in-out .2s;
 }
 
@@ -35,8 +35,4 @@
    color: rgba(0, 0, 0, 0.61) !important;
 }
 
-.icon-link-footer:hover {
-   color: #69e3c1d1 !important;
-   transition: ease-in-out .2s;
-}
 

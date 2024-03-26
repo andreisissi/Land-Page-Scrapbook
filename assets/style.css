@@ -35,11 +35,11 @@
    color: rgba(0, 0, 0, 0.61) !important;
 }
 
-.img-thumbnail {
+.img-servicos {
    transform: scale(1);
    transition: .3s ease-in-out;
 }
 
-.img-thumbnail:hover {
+.img-servicos:hover {
    transform: scale(1.1);
 }

@@ -43,3 +43,37 @@
 .img-servicos:hover {
    transform: scale(1.1);
 }
+
+
+
+@media screen and (max-width: 400px) {
+   .title-carousel {
+      font-size: 10px;
+   }
+   
+   .p-carousel {
+      font-size: 8px;
+   }
+}
+
+@media screen and (min-width: 400px) and (max-width: 768px) {
+   .title-carousel {
+      font-size: 15px;
+   }
+   
+   .p-carousel {
+      font-size: 10px;
+   }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) { /* TABLET */
+
+   .title-carousel {
+      font-size: 30px;
+   }
+   
+   .p-carousel {
+      font-size: 15px;
+   }
+}
+
